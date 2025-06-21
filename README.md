@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jagannath Nayak!
 
-🎯 **Aspiring Data Scientist** |🔍 Passionate about **Data Analytics, Machine Learning, Deep Learning, NLP, and Generative AI**
+🎯 🔍 Passionate about **Data Analytics, Machine Learning, Deep Learning, NLP, and Generative AI**
 
 ---
 

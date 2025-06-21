@@ -6,7 +6,7 @@
 
 ## 🔥 About Me
 
-- 🧠 Strong foundation in **Python, SQL, Excel, Power BI, and Tableau**
+- 🧠 Strong foundation in **Python, SQL, Excel, Power BI, and C++**
 - 🛠️ Experienced in building AI-driven solutions with real-world impact
 - 📊 Proficient in gathering, cleaning, and interpreting data to drive business insights
 - 🚀 Looking to contribute to exciting projects in **Data Analytics**, **ML**, and **AI**

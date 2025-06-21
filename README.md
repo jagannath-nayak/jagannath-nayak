@@ -26,10 +26,6 @@ NLP Web App with **Sentiment Analysis, Emotion Detection, Summarization,** and *
 Smart web app to detect **spam in SMS and Emails**  
 📊 Achieved **94% accuracy** | 🔐 Reduced false positives by **23%**
 
-### 🎓 **MargDarshak.AI**
-Personalized course recommendation bot based on **career goals** and **skill mapping**  
-📚 Increased learning relevance by **40%**
-
 ---
 
 ## 🏆 Achievements

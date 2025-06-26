@@ -13,21 +13,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🩺 **Healthcare Assistant**
-AI-powered tool for analyzing **X-rays** and **ultrasounds**, improving diagnostic speed by **30%**
-
-### 💬 **NLP Navigator**
-NLP Web App with **Sentiment Analysis, Emotion Detection, Summarization,** and **Keyphrase Extraction**  
-✅ Used by over 20 users | 📈 88% user satisfaction
-
-### 🛡️ **SpamDefender.AI**
-Smart web app to detect **spam in SMS and Emails**  
-📊 Achieved **94% accuracy** | 🔐 Reduced false positives by **23%**
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **1st Place** - IT Hackathon, IT Club (Team HackSquad)
@@ -38,7 +23,7 @@ Smart web app to detect **spam in SMS and Emails**
 
 ## 📜 Certifications
 
-- 🎓 Google Data Analytics Specialization  
+- 🎓 Google Data Analytics Specialization 
 - 🧪 Machine Learning Specialization  
 - 🧮 SQL (HackerRank Certified)  
 - 📚 Complete DS/ML/DL/NLP Bootcamp  
